@@ -18,3 +18,67 @@
 2021-05-16 17:28:00,745: INFO: ********Passed********
 2021-05-16 22:43:24,045: INFO: ********Passed********
 2021-05-16 22:43:38,416: INFO: ********Passed********
+2021-05-17 16:40:43,781: INFO: ************* Test_003_AddCustomer **********
+2021-05-17 16:44:13,847: INFO: ************* Test_003_AddCustomer **********
+2021-05-17 16:45:04,736: INFO: ************* Login succesful **********
+2021-05-17 16:45:04,741: INFO: ******* Starting Add Customer Test **********
+2021-05-17 16:52:35,371: INFO: ************* Test_003_AddCustomer **********
+2021-05-17 16:53:05,227: INFO: ************* Login succesful **********
+2021-05-17 16:53:05,227: INFO: ******* Starting Add Customer Test **********
+2021-05-17 16:53:15,922: INFO: ************* Providing customer info **********
+2021-05-17 16:53:33,244: INFO: ************* Saving customer info **********
+2021-05-17 16:53:33,244: INFO: ********* Add customer validation started *****************
+2021-05-17 17:02:27,328: INFO: ************* Test_003_AddCustomer **********
+2021-05-17 17:02:45,051: INFO: ************* Login succesful **********
+2021-05-17 17:02:45,061: INFO: ******* Starting Add Customer Test **********
+2021-05-17 17:02:53,963: INFO: ************* Providing customer info **********
+2021-05-17 17:03:13,385: INFO: ************* Saving customer info **********
+2021-05-17 17:03:13,385: INFO: ********* Add customer validation started *****************
+2021-05-17 17:03:14,177: INFO: ********* Add customer Test Passed *********
+2021-05-17 17:03:14,538: INFO: ******* Ending Add customer test **********
+2021-05-17 17:11:11,899: INFO: ************* SearchCustomerByEmail_004 **********
+2021-05-17 17:11:29,046: INFO: ************* Login succesful **********
+2021-05-17 17:11:29,046: INFO: ******* Starting Search Customer By Email **********
+2021-05-17 17:11:32,486: INFO: ************* searching customer by emailID **********
+2021-05-17 17:19:16,401: INFO: ************* SearchCustomerByEmail_004 **********
+2021-05-17 17:19:42,901: INFO: ************* Login succesful **********
+2021-05-17 17:19:42,902: INFO: ******* Starting Search Customer By Email **********
+2021-05-17 17:19:47,529: INFO: ************* searching customer by emailID **********
+2021-05-17 19:38:22,306: INFO: ************* SearchCustomerByEmail_004 **********
+2021-05-17 19:38:44,967: INFO: ************* Login succesful **********
+2021-05-17 19:38:44,972: INFO: ******* Starting Search Customer By Email **********
+2021-05-17 19:38:48,567: INFO: ************* searching customer by emailID **********
+2021-05-17 19:38:57,952: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2021-05-17 19:48:58,410: INFO: ************* SearchCustomerByName_005 **********
+2021-05-17 19:49:21,513: INFO: ************* Login succesful **********
+2021-05-17 19:49:21,513: INFO: ******* Starting Search Customer By Name **********
+2021-05-17 19:49:30,153: INFO: ************* searching customer by Name **********
+2021-05-17 19:49:36,906: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2021-05-17 19:51:15,893: INFO: ************* SearchCustomerByName_005 **********
+2021-05-17 19:51:33,608: INFO: ************* Login succesful **********
+2021-05-17 19:51:33,608: INFO: ******* Starting Search Customer By Name **********
+2021-05-17 19:51:39,085: INFO: ************* searching customer by Name **********
+2021-05-17 19:51:45,500: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2021-05-17 19:53:52,953: INFO: ************* SearchCustomerByEmail_004 **********
+2021-05-17 19:54:15,221: INFO: ************* Login succesful **********
+2021-05-17 19:54:15,221: INFO: ******* Starting Search Customer By Email **********
+2021-05-17 19:54:21,638: INFO: ************* searching customer by emailID **********
+2021-05-17 19:54:28,031: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2021-05-17 20:05:21,603: INFO: ************* Test_003_AddCustomer **********
+2021-05-17 20:05:49,243: INFO: ************* Login succesful **********
+2021-05-17 20:05:49,243: INFO: ******* Starting Add Customer Test **********
+2021-05-17 20:05:57,899: INFO: ************* Providing customer info **********
+2021-05-17 20:06:13,471: INFO: ************* Saving customer info **********
+2021-05-17 20:06:13,471: INFO: ********* Add customer validation started *****************
+2021-05-17 20:06:16,202: INFO: ********* Add customer Test Passed *********
+2021-05-17 20:06:16,412: INFO: ******* Ending Add customer test **********
+2021-05-17 20:10:49,047: INFO: ****Test_001_Login****
+2021-05-17 20:11:07,857: INFO: *****Test is passed******
+2021-05-17 20:14:39,049: INFO: ****Test_001_Login****
+2021-05-17 20:14:48,330: INFO: *****Test is passed******
+2021-05-17 20:15:13,014: INFO: *****Test is passed******
+2021-05-17 20:19:49,198: INFO: ************* SearchCustomerByEmail_004 **********
+2021-05-17 20:20:06,261: INFO: ************* Login succesful **********
+2021-05-17 20:20:06,261: INFO: ******* Starting Search Customer By Email **********
+2021-05-17 20:20:10,548: INFO: ************* searching customer by emailID **********
+2021-05-17 20:20:17,169: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 

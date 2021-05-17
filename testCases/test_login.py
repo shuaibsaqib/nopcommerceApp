@@ -14,7 +14,7 @@ class Test_001_Login:
 
     def test_HomePageTitle(self):
         self.logger.info("****Test_001_Login****")
-        self.driver = webdriver.Chrome(executable_path="C:\Drivers\chromedriver_win32\chromedriver")
+        self.driver = webdriver.Chrome(executable_path=".\\venv\\chromedriver_win32\\chromedriver")
         self.driver.get(self.baseURl)
         act_title = self.driver.title
         if act_title == "Your store. Login" :

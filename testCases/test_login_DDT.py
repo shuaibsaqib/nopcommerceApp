@@ -12,7 +12,7 @@ class Test_002_DDT_Login:
     logger = LogGen.logGen()
 
     def test_DDT_login(self):
-        self.driver= webdriver.Chrome(executable_path="C:\Drivers\chromedriver_win32\chromedriver")
+        self.driver= webdriver.Chrome(executable_path=".\\venv\\chromedriver_win32\\chromedriver")
         self.driver.get(self.baseURl)
         self.driver.implicitly_wait(5)
         self.lp = LoginPage(self.driver)
